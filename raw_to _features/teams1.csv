@@ -1,0 +1,922 @@
+player_id,name,team_id,position,birth_date,nationality
+521,R. Lewandowski,529,Attacker,1988-08-21,Poland
+583,João Félix,529,Attacker,1999-11-10,Portugal
+619,Eric García,529,Defender,2001-01-09,Spain
+633,İ. Gündoğan,529,Midfielder,1990-10-24,Germany
+855,João Cancelo,529,Defender,1994-05-27,Portugal
+931,Ferran Torres,529,Attacker,2000-02-29,Spain
+1496,Raphinha,529,Attacker,1996-12-14,Brazil
+18949,Oriol Romeu,529,Midfielder,1991-09-24,Spain
+133609,Pedri,529,Midfielder,2002-11-25,Spain
+263530,Pau Victor,529,Attacker,2001-11-26,Spain
+285909,Pablo Torre,529,Midfielder,2003-04-03,Spain
+296667,Gavi,529,Midfielder,2004-08-05,Spain
+336557,Aleix Garrido,529,Midfielder,2004-02-22,Spain
+340279,Vitor Roque,529,Attacker,2005-02-28,Brazil
+340626,Fermín López,529,Midfielder,2003-05-11,Spain
+348539,Unai Hernández,529,Midfielder,2004-12-14,Spain
+386827,Ángel Alarcón,529,Attacker,2004-05-15,Spain
+386828,Lamine Yamal,529,Attacker,2007-07-13,Spain
+392270,Marc Guiu,529,Attacker,2006-01-04,Spain
+396630,Pau Prim,529,Midfielder,2006-02-22,Spain
+48,Saúl,530,Midfielder,1994-11-21,Spain
+50,Koke,530,Midfielder,1992-01-08,Spain
+53,Á. Correa,530,Attacker,1995-03-09,Argentina
+56,A. Griezmann,530,Attacker,1991-03-21,France
+59,Álvaro Morata,530,Attacker,1992-10-23,Spain
+667,M. Depay,530,Attacker,1994-02-13,Netherlands
+753,Marcos Llorente,530,Midfielder,1995-01-30,Spain
+915,Gabriel Paulista,530,Defender,1990-11-26,Brazil
+10322,Marcos Paulo,530,Attacker,2001-02-01,Portugal
+47566,Javi Galán,530,Defender,1994-11-19,Spain
+126936,Samuel Lino,530,Attacker,1999-12-23,Brazil
+136117,Rodrigo Riquelme,530,Midfielder,2000-04-02,Spain
+162138,Marco Moreno,530,Defender,2001-02-20,Spain
+286038,Álex Calatrava,530,Attacker,2000-06-22,Spain
+323935,G. Simeone,530,Attacker,2002-12-18,Argentina
+336587,S. El Jebari,530,Attacker,2004-02-05,Morocco
+340154,A. Vermeeren,530,Midfielder,2005-02-07,Belgium
+358628,Samu Omorodion,530,Attacker,2004-05-05,Spain
+386849,A. Raihani,530,Attacker,2004-02-03,Morocco
+386850,Adrián Niño,530,Attacker,2004-06-19,Spain
+898,Ander Herrera,531,Midfielder,1989-08-14,Spain
+2672,Muniain,531,Attacker,1992-12-19,Spain
+30510,Álex Berenguer,531,Attacker,1995-07-04,Spain
+47007,Ruíz de Galarreta,531,Midfielder,1993-08-06,Spain
+47278,Dani Vivian,531,Defender,1999-07-05,Spain
+47281,Dani García,531,Midfielder,1990-05-24,Spain
+47282,Raúl García,531,Midfielder,1986-07-11,Spain
+47291,Gorka Guruzeta,531,Attacker,1996-09-12,Spain
+47294,I. Williams,531,Attacker,1994-06-15,Ghana
+47299,Andoni Gorosabel,531,Defender,1996-08-04,Spain
+47418,Mikel Vesga,531,Midfielder,1993-04-08,Spain
+104853,Asier Villalibre,531,Attacker,1997-09-30,Spain
+128398,Oihan Sancet,531,Midfielder,2000-04-25,Spain
+182617,Beñat Prados,531,Defender,2001-02-08,Spain
+183799,Nico Williams,531,Attacker,2002-07-12,Spain
+288525,Malcom Adu,531,Attacker,2001-10-12,Spain
+313025,Hugo Rincón,531,Defender,2003-01-27,Spain
+332308,Unai Gómez,531,Midfielder,2003-05-25,Spain
+383780,Mikel Jauregizar,531,Midfielder,2003-11-13,Spain
+440413,Aingeru Olabarrieta,531,Attacker,2005-11-14,Spain
+8493,R. Yaremchuk,532,Attacker,1995-11-27,Ukraine
+8587,S. Amallah,532,Midfielder,1996-11-15,Morocco
+19352,Sergi Canós,532,Midfielder,1997-02-02,Spain
+41157,André Almeida,532,Midfielder,2000-05-30,Portugal
+47264,Hugo Duro,532,Attacker,1999-11-10,Spain
+47463,Pepelu,532,Midfielder,1998-08-11,Spain
+161875,Hugo González,532,Midfielder,2003-02-07,Spain
+161877,Pablo Gozálbez,532,Midfielder,2001-04-30,Spain
+162127,Diego López,532,Attacker,2002-05-13,Spain
+162931,Fran Pérez,532,Midfielder,2002-09-09,Spain
+270516,P. González,532,Attacker,2002-07-25,Dominican Republic
+288074,Alberto Marí,532,Attacker,2001-07-11,Spain
+297743,Javi Navarro,532,Midfielder,2004-02-24,Spain
+315699,Javi Guerra,532,Midfielder,2003-05-13,Spain
+333369,Joselu Pérez,532,Attacker,2004-03-12,Spain
+348326,Martín Tejón,532,Midfielder,2004-04-12,Spain
+361385,Yarek Gąsiorowski,532,Defender,2005-01-12,Spain
+364414,Mario Domínguez,532,Attacker,2004-02-10,Spain
+406266,A. Fadal,532,Midfielder,2004-01-14,Ghana
+439578,David Otorbi,532,Attacker,2007-10-16,Spain
+671,B. Traoré,533,Midfielder,1995-09-06,Burkina Faso
+925,Gonçalo Guedes,533,Attacker,1996-11-29,Portugal
+1461,Denis Suárez,533,Midfielder,1994-01-06,Spain
+1702,Alfonso Pedraza,533,Midfielder,1996-04-09,Spain
+1705,Manu Trigueros,533,Midfielder,1991-10-17,Spain
+1707,Gerard Moreno,533,Attacker,1992-04-07,Spain
+8492,A. Sørloth,533,Attacker,1995-12-05,Norway
+18802,É. Capoue,533,Midfielder,1988-07-11,France
+47467,José Luis Morales,533,Attacker,1987-07-23,Spain
+47529,Miguel Ángel Morro,533,Goalkeeper,2000-09-11,Spain
+64268,J. Mojica,533,Defender,1992-08-21,Colombia
+182219,Álex Baena,533,Midfielder,2001-07-20,Spain
+182685,Diego Collado,533,Attacker,2001-01-09,Spain
+184194,Álex Forés,533,Attacker,2001-04-12,Spain
+184226,Yeremy Pino,533,Midfielder,2002-10-20,Spain
+187987,Ramon Terrats,533,Midfielder,2000-10-18,Spain
+195717,Y. Mosquera,533,Defender,2001-05-02,Colombia
+290482,Jorge Pascual,533,Attacker,2003-04-09,Spain
+290740,Ilias Akhomach,533,Attacker,2004-04-16,Morocco
+391131,Reque,533,Midfielder,2004-02-12,Spain
+176,É. Lamela,536,Midfielder,1992-03-04,Argentina
+385,Óliver Torres,536,Midfielder,1994-11-10,Spain
+738,Sergio Ramos,536,Defender,1986-03-30,Spain
+1493,M. Acuña,536,Defender,1991-10-28,Argentina
+2813,M. Dmitrović,536,Goalkeeper,1992-01-24,Serbia
+19172,Ø. Nyland,536,Goalkeeper,1990-09-10,Norway
+21004,L. Agoumé,536,Midfielder,2002-02-09,France
+22233,B. Soumaré,536,Midfielder,1999-02-27,France
+47013,Rafa Mir,536,Attacker,1997-06-18,Spain
+47416,Óscar Rodríguez,536,Midfielder,1998-06-28,Spain
+174918,L. Badé,536,Defender,2000-04-11,France
+180560,H. Mejbri,536,Midfielder,2003-01-21,Tunisia
+185398,Isaac Romero,536,Attacker,2000-05-18,Spain
+195923,José Ángel Carmona,536,Defender,2002-01-29,Spain
+290686,Rafael Romero,536,Goalkeeper,2003-08-07,Spain
+308346,Alberto Flores,536,Goalkeeper,2003-11-10,Spain
+311344,A. Véliz,536,Attacker,2003-09-19,Argentina
+331330,Matías Árbol,536,Goalkeeper,2002-09-12,Spain
+335057,Darío Benavides,536,Defender,2003-01-12,Spain
+386270,I. Sow,536,Attacker,2007-01-26,Senegal
+570,F. Cervi,538,Midfielder,1994-05-26,Argentina
+1364,Jaílson,538,Midfielder,1995-09-07,Brazil
+2032,J. Strand Larsen,538,Attacker,2000-02-06,Norway
+2433,R. Tapia,538,Midfielder,1995-07-28,Peru
+19026,L. de la Torre,538,Midfielder,1998-05-23,USA
+22235,J. Bamba,538,Attacker,1996-03-26,Côte d'Ivoire
+26845,T. Douvikas,538,Attacker,1999-08-02,Greece
+47434,Kevin Vázquez,538,Defender,1993-03-23,Spain
+47435,Fran Beltrán,538,Midfielder,1999-02-03,Spain
+47445,Iago Aspas,538,Attacker,1987-08-01,Spain
+47988,C. Starfelt,538,Defender,1995-06-01,Sweden
+64309,Manu Sánchez,538,Defender,2000-08-24,Spain
+67955,Carles Pérez,538,Attacker,1998-02-16,Spain
+162034,Carlos Dotor,538,Midfielder,2001-03-15,Spain
+192434,Miguel Rodríguez,538,Attacker,2003-04-29,Spain
+269163,W. Swedberg,538,Midfielder,2004-02-01,Sweden
+304383,T. Allende,538,Attacker,1999-02-20,Argentina
+313651,Hugo Sotelo,538,Midfielder,2003-12-19,Spain
+329720,Hugo Álvarez,538,Midfielder,2003-07-02,Spain
+329722,Yoel Lago,538,Midfielder,2004-03-25,Spain
+9823,Fabrício,539,Attacker,2000-10-08,Brazil
+46659,Rober Ibáñez,539,Midfielder,1993-03-22,Spain
+47225,Brugui,539,Midfielder,1996-11-04,Spain
+47540,Ángel Algobia,539,Midfielder,1999-06-23,Spain
+96324,M. Bouldini,539,Attacker,1995-11-27,Morocco
+104949,Pablo Martínez,539,Midfielder,1998-02-22,Spain
+106727,Oriol Rey,539,Midfielder,1998-02-25,Spain
+119232,Dani Gómez,539,Attacker,1998-07-30,Spain
+163241,Óscar Clemente,539,Midfielder,1999-03-26,Spain
+182150,Sergio Lozano,539,Midfielder,1999-03-24,Spain
+182669,Álex Blesa,539,Midfielder,2002-01-15,Spain
+182671,Cantero,539,Midfielder,2000-06-08,Spain
+182770,Carlos Álvarez,539,Midfielder,2003-08-06,Spain
+192032,Iván Romero,539,Attacker,2001-04-10,Spain
+360610,Hugo Redón,539,Midfielder,2003-04-19,Spain
+388013,Andrés García,539,Attacker,2003-02-07,Spain
+411703,Edgar Alcañiz,539,Midfielder,2005-03-18,Spain
+439305,Lancinet Kourouma,539,Attacker,2004-03-30,Spain
+450497,Carlos Espí,539,Attacker,2005-07-24,Spain
+463279,Paco Cortés,539,Midfielder,2007-08-11,Spain
+653,F. Mendy,541,Defender,1995-06-08,France
+735,Nacho,541,Defender,1990-01-18,Spain
+2207,E. Camavinga,541,Midfielder,2002-11-10,France
+2273,Kepa,541,Goalkeeper,1994-10-03,Spain
+18907,Joselu,541,Attacker,1990-03-27,Spain
+162028,Juanmi Latasa,541,Attacker,2001-03-23,Spain
+162547,T. Zidane,541,Midfielder,2002-05-18,France
+189997,Mario de Luis,541,Goalkeeper,2002-06-05,Spain
+206260,Lucas Cañizares,541,Goalkeeper,2002-05-10,Spain
+237066,Rafa Marín,541,Defender,2002-05-19,Spain
+237174,Álvaro Carrillo,541,Defender,2002-04-06,Spain
+270516,P. González,541,Attacker,2002-07-25,Dominican Republic
+279792,Vinícius Tobias,541,Defender,2004-02-23,Brazil
+330438,E. Pujol,541,Defender,2004-08-07,Dominican Republic
+334575,Diego Piñeiro,541,Goalkeeper,2004-02-13,Spain
+336711,Gonzalo García,541,Attacker,2004-03-24,Spain
+343202,Á. Rodríguez,541,Attacker,2004-07-14,Uruguay
+343205,Mario Martín,541,Midfielder,2004-03-05,Spain
+386305,Jacobo Ramón,541,Defender,2005-01-06,Spain
+396475,Fran González,541,Goalkeeper,2005-06-24,Spain
+43084,I. Hagi,542,Midfielder,1998-10-22,Romania
+46933,Luis Rioja,542,Attacker,1993-10-16,Spain
+47299,Andoni Gorosabel,542,Defender,1996-08-04,Spain
+47306,Álex Sola,542,Defender,1999-06-09,Spain
+47309,Guevara,542,Midfielder,1997-07-07,Spain
+47396,Kike García,542,Attacker,1989-11-25,Spain
+104821,Jon Guridi,542,Midfielder,1995-02-28,Spain
+107217,Xeber Alkain,542,Attacker,1997-06-26,Spain
+183751,A. Rebbach,542,Attacker,1998-08-11,Algeria
+187214,Carlos Vicente,542,Attacker,1999-04-23,Spain
+197800,Unai Ropero,542,Attacker,2001-11-20,Spain
+215810,G. Gagua,542,Attacker,2001-10-10,Georgia
+237066,Rafa Marín,542,Defender,2002-05-19,Spain
+297973,Selu Diallo,542,Midfielder,2003-10-01,Guinea
+305970,J. de León,542,Attacker,2004-03-02,Dominican Republic
+311740,Tomás Mendes,542,Midfielder,2004-11-21,Spain
+323935,G. Simeone,542,Attacker,2002-12-18,Argentina
+358628,Samu Omorodion,542,Attacker,2004-05-05,Spain
+390742,J. Panichelli,542,Attacker,2002-10-07,Argentina
+401419,Ander Sánchez,542,Midfielder,2004-01-24,Spain
+614,C. Bravo,543,Goalkeeper,1983-04-13,Chile
+668,N. Fekir,543,Attacker,1993-07-18,France
+745,Isco,543,Midfielder,1992-04-21,Spain
+1580,William Carvalho,543,Midfielder,1992-04-07,Portugal
+1697,Pablo Fornals,543,Midfielder,1996-02-22,Spain
+2476,G. Rodríguez,543,Midfielder,1994-04-12,Argentina
+3033,C. Bakambu,543,Attacker,1991-04-11,Congo DR
+18906,Ayoze Pérez,543,Attacker,1993-07-29,Spain
+47319,Willian José,543,Attacker,1991-11-23,Brazil
+47341,Marc Roca,543,Midfielder,1996-11-26,Spain
+47579,E. Ávila,543,Attacker,1994-02-06,Argentina
+133185,J. Cardoso,543,Midfielder,2001-09-20,USA
+181421,A. Ezzalzouli,543,Attacker,2001-12-17,Morocco
+185477,Rodri,543,Midfielder,2000-05-16,Spain
+286084,Sergi Altimira,543,Midfielder,2001-08-25,Spain
+305797,Enrique Fernández,543,Midfielder,2003-09-16,Spain
+329663,Guilherme Fernandes,543,Goalkeeper,2001-03-28,Portugal
+347887,Ginés Sorroche,543,Midfielder,2004-03-24,Spain
+351131,Dani Pérez,543,Midfielder,2005-07-26,Spain
+400948,Assane Diao,543,Attacker,2005-09-07,Spain
+871,Matheus Pereira,545,Midfielder,1998-02-25,Brazil
+1583,Sergio León,545,Attacker,1989-01-06,Spain
+46709,Álvaro Tejero,545,Defender,1996-07-20,Spain
+46740,Stoichkov,545,Attacker,1993-11-05,Spain
+46768,Ager Aketxe,545,Midfielder,1993-12-30,Spain
+46809,Quique González,545,Attacker,1990-05-16,Spain
+46929,José Corpas,545,Midfielder,1991-07-07,Spain
+46985,Y. Qasmi,545,Attacker,1991-01-03,Morocco
+47286,Peru Nolaskoain,545,Midfielder,1998-10-25,Spain
+47318,Jon Bautista,545,Attacker,1995-07-03,Spain
+47385,Sergio Álvarez,545,Midfielder,1992-01-23,Spain
+52720,J. Yriarte,545,Midfielder,2000-03-04,Venezuela
+113587,Y. Rahmani,545,Attacker,1995-05-13,France
+131539,Ríos Reina,545,Defender,1990-05-10,Spain
+161929,K. de La Fuente,545,Attacker,2001-07-16,USA
+161965,Mario Soriano,545,Midfielder,2002-04-22,Spain
+182639,Unai Vencedor,545,Midfielder,2000-11-15,Spain
+288527,Ander Madariaga,545,Midfielder,2002-03-11,Spain
+288529,Ángel Troncho,545,Attacker,2002-10-02,Spain
+396479,Eric Pérez,545,Attacker,2001-05-18,Spain
+763,Daniel Fuzato,546,Goalkeeper,1997-07-04,Brazil
+897,M. Greenwood,546,Attacker,2001-10-01,England
+2671,Jaime Mata,546,Attacker,1988-10-24,Spain
+2824,N. Maksimović,546,Midfielder,1995-01-26,Serbia
+18867,Diego Rico,546,Defender,1993-02-23,Spain
+47085,Luis Milla,546,Midfielder,1994-10-07,Spain
+47416,Óscar Rodríguez,546,Midfielder,1998-06-28,Spain
+47472,Borja Mayoral,546,Attacker,1997-04-05,Spain
+162028,Juanmi Latasa,546,Attacker,2001-03-23,Spain
+162030,Jordi Martín,546,Midfielder,2001-01-05,Spain
+162123,I. Moriba,546,Midfielder,2003-01-19,Guinea
+184617,Diego López,546,Midfielder,2001-10-21,Spain
+184743,Santi García,546,Midfielder,2001-08-29,Spain
+194782,Facu Esnáider,546,Midfielder,2001-11-09,Spain
+195923,José Ángel Carmona,546,Defender,2002-01-29,Spain
+293297,J. Patrick,546,Midfielder,2003-09-24,Republic of Ireland
+348885,Jeremy Jorge,546,Midfielder,2003-02-09,Spain
+364415,Yellu Santiago,546,Midfielder,2004-05-25,Spain
+439616,Y. Tallal,546,Midfielder,2005-03-03,Morocco
+465838,Alberto Risco,546,Midfielder,2005-08-30,Spain
+1117,K. Tierney,548,Defender,1997-06-05,Scotland
+2063,André Silva,548,Attacker,1995-11-06,Portugal
+31406,U. Sadiq,548,Attacker,1997-02-02,Nigeria
+37938,S. Becker,548,Attacker,1995-02-09,Suriname
+46808,Carlos Fernández,548,Attacker,1996-05-22,Spain
+47306,Álex Sola,548,Defender,1999-06-09,Spain
+47311,Mikel Merino,548,Midfielder,1996-06-22,Spain
+47314,Zubeldia,548,Midfielder,1997-03-30,Spain
+47315,Martín Zubimendi,548,Midfielder,1999-02-02,Spain
+47317,Barrenetxea,548,Attacker,2001-12-27,Spain
+47322,Martín Merquelanz,548,Attacker,1995-06-12,Spain
+47323,Mikel Oyarzabal,548,Attacker,1997-04-21,Spain
+47440,Brais Méndez,548,Midfielder,1997-01-07,Spain
+47566,Javi Galán,548,Defender,1994-11-19,Spain
+125675,B. Fiabema,548,Attacker,2003-02-16,Norway
+182603,Jon Ander Olasagasti,548,Midfielder,2000-08-16,Spain
+183744,Beñat Turrientes,548,Midfielder,2002-01-31,Spain
+268960,A. Zakharyan,548,Midfielder,2003-05-26,Russia
+287653,Alberto Dadie,548,Attacker,2002-07-20,Spain
+290106,Pablo Marín,548,Midfielder,2003-07-03,Spain
+330,José Callejón,715,Attacker,1987-02-11,Spain
+608,L. Boyé,715,Attacker,1996-02-28,Argentina
+741,Jesús Vallejo,715,Defender,1997-01-05,Spain
+11379,A. Batalla,715,Goalkeeper,1996-04-30,Argentina
+14405,M. Uzuni,715,Attacker,1995-05-31,Albania
+19278,F. Diédhiou,715,Attacker,1992-12-15,Senegal
+21441,F. Maouassa,715,Defender,1998-07-06,France
+46689,Antonio Puertas,715,Midfielder,1992-02-21,Spain
+46982,Gonzalo Villar,715,Midfielder,1998-03-23,Spain
+47063,Alberto Soro,715,Midfielder,1999-03-09,Spain
+51756,M. Arezo,715,Attacker,2002-11-21,Uruguay
+70078,F. Pellistri,715,Midfielder,2001-12-20,Uruguay
+70339,S. Weissman,715,Attacker,1996-02-14,Israel
+119762,K. Piątkowski,715,Defender,2000-06-21,Poland
+122756,Sergio Ruiz,715,Midfielder,1994-12-16,Spain
+181463,Víctor Meseguer,715,Midfielder,1999-06-09,Spain
+190530,Pablo Sáenz,715,Attacker,2001-05-22,Spain
+306183,L. Sangaré,715,Midfielder,2001-11-20,Côte d'Ivoire
+403498,Sergio Rodelas,715,Attacker,2004-12-01,Spain
+436202,E. Bello,715,Attacker,2004-03-17,Nigeria
+2717,A. Tuhami,720,Midfielder,1995-01-15,Morocco
+8518,M. Sylla,720,Attacker,1994-03-20,Senegal
+14341,S. Jurić,720,Midfielder,1996-08-16,Croatia
+18902,Kenedy,720,Midfielder,1996-02-08,Brazil
+46979,Iván Sánchez,720,Midfielder,1992-09-23,Spain
+50502,Álvaro Negredo,720,Attacker,1985-08-20,Spain
+104793,A. Ndiaye,720,Attacker,1996-07-16,Senegal
+104941,Monchu,720,Midfielder,1999-09-13,Spain
+122233,Marcos André,720,Attacker,1996-10-20,Brazil
+181463,Víctor Meseguer,720,Midfielder,1999-06-09,Spain
+185094,Alberto Quintana,720,Midfielder,2001-10-05,Spain
+264470,Raúl Moro,720,Attacker,2002-12-05,Spain
+270972,Isra Sala,720,Attacker,2003-05-10,Spain
+285506,Iván Cédric,720,Attacker,2001-12-22,Spain
+286961,Manu Pozo,720,Attacker,2001-12-12,Spain
+292219,S. Biuk,720,Attacker,2002-12-26,Croatia
+331004,Chuky San José,720,Midfielder,2004-04-29,Spain
+345967,Jesús,720,Midfielder,2004-02-08,Spain
+361386,Koke,720,Midfielder,2005-03-16,Spain
+440339,Adrián Arnu,720,Attacker,2007-03-04,Spain
+937,Rubén Sobrino,724,Attacker,1992-06-01,Spain
+1094,D. Samassékou,724,Midfielder,1996-01-11,Mali
+2459,D. Machís,724,Attacker,1993-02-07,Venezuela
+2615,M. Gómez,724,Attacker,1996-08-14,Uruguay
+24793,Jorge Meré,724,Defender,1997-04-17,Spain
+46691,Fede San Emeterio,724,Midfielder,1997-03-16,Spain
+46849,Javi Hernández,724,Defender,1998-05-02,Spain
+46890,Álvaro Jiménez,724,Attacker,1995-05-19,Spain
+47320,Juanmi,724,Attacker,1993-05-20,Spain
+47471,Roger,724,Attacker,1991-01-03,Spain
+47495,Sergi Guardiola,724,Attacker,1991-05-29,Spain
+48014,Aiham Ousou,724,Defender,2000-01-09,Syria
+51588,B. Ocampo,724,Attacker,1999-06-25,Uruguay
+77623,Y. Diarra,724,Midfielder,1998-03-24,Mali
+84086,Robert Navarro,724,Midfielder,2002-04-12,Spain
+104792,Chris Ramos,724,Attacker,1997-01-16,Spain
+276995,F. Mwepu,724,Attacker,2000-02-29,Zambia
+330238,Lucas Pires,724,Defender,2001-03-24,Brazil
+386491,José de la Rosa,724,Attacker,2004-07-28,Spain
+456612,Borja Vazquez,724,Attacker,2005-01-18,Spain
+60,Joaquín Muñoz,726,Attacker,1999-03-10,Spain
+2599,K. Hashimoto,726,Midfielder,1993-08-16,Japan
+46660,Javi Martínez,726,Midfielder,1999-12-22,Spain
+46840,Hugo Vallejo,726,Attacker,2000-02-15,Spain
+46859,Javi Mier,726,Midfielder,1999-02-04,Spain
+47106,Fernando Guerrero,726,Midfielder,2001-08-01,Spain
+52683,J. Bolívar,726,Attacker,2001-12-16,Venezuela
+96253,Elady,726,Attacker,1990-07-13,Spain
+107195,E. Lombardo,726,Attacker,1997-04-16,France
+119883,S. Obeng,726,Attacker,1997-05-15,Ghana
+131544,Óscar Sielva,726,Midfielder,1991-08-06,Spain
+182188,Rafa Tresaco,726,Attacker,2000-08-24,Spain
+182637,Álex Balboa,726,Midfielder,2001-03-06,Equatorial Guinea
+183747,Iker Kortajarena,726,Midfielder,2000-06-21,Spain
+195272,Ignacio García,726,Defender,2002-05-08,Spain
+350633,David García,726,Midfielder,2003-09-15,Spain
+382827,A. Șerban,726,Defender,2003-09-13,Romania
+391775,A. Arguigue,726,Attacker,2005-05-13,Morocco
+431362,Diego Espinosa,726,Defender,2004-07-02,Spain
+453927,Iker Gil,726,Attacker,2005-03-15,Spain
+1825,Lucas Torró,727,Midfielder,1994-07-19,Spain
+46653,David García,727,Defender,1994-02-14,Spain
+46658,Rubén García,727,Midfielder,1993-07-14,Spain
+46662,Moncayola,727,Midfielder,1998-05-13,Spain
+46667,Kike Barja,727,Attacker,1997-04-01,Spain
+46746,A. Budimir,727,Attacker,1991-07-22,Croatia
+47391,Rubén Peña,727,Defender,1991-07-18,Spain
+47419,José Arnaiz,727,Attacker,1995-04-15,Spain
+47574,Moi Gómez,727,Midfielder,1994-06-23,Spain
+64268,J. Mojica,727,Defender,1992-08-21,Colombia
+67939,Aimar Oroz,727,Midfielder,2001-11-27,Spain
+139001,Pablo Ibáñez,727,Midfielder,1998-09-20,Spain
+146751,Raúl García,727,Attacker,2000-11-03,Spain
+182592,Jorge Herrando,727,Defender,2001-02-28,Spain
+182621,Iker Muñoz,727,Midfielder,2002-11-05,Spain
+184609,Jorge Moreno,727,Defender,2001-07-25,Spain
+197799,Xabi Huarte,727,Midfielder,2001-02-25,Spain
+286606,Max Svensson,727,Attacker,2001-11-08,Spain
+381197,Asier Osambela,727,Midfielder,2004-10-30,Spain
+421044,Íñigo Arguibide,727,Attacker,2005-04-19,Spain
+55,Borja Garcés,797,Attacker,1999-08-06,Spain
+2581,J. Méndez,797,Midfielder,1997-04-26,Ecuador
+46896,Cristian Salvador,797,Midfielder,1994-11-20,Spain
+47057,Raúl Guti,797,Midfielder,1996-12-30,Spain
+47182,Tete Morente,797,Midfielder,1996-12-04,Spain
+47496,Óscar Plano,797,Attacker,1991-02-11,Spain
+107158,Sergio Bermejo,797,Attacker,1997-08-17,Spain
+119223,Mourad,797,Attacker,1998-05-27,Spain
+138809,Arnau Puigmal,797,Midfielder,2001-01-10,Spain
+157988,Sergio Carreira,797,Defender,2000-10-13,Spain
+162136,R. Núñez,797,Attacker,2002-01-25,Dominican Republic
+180241,Manu Nieto,797,Attacker,1998-03-29,Spain
+189866,John Donald,797,Midfielder,2000-09-25,Spain
+335697,David López,797,Defender,2003-02-03,Spain
+341371,Rodrigo Mendoza,797,Midfielder,2005-03-15,Spain
+435551,Nordin,797,Attacker,2005-02-14,Spain
+439293,A. Boayar,797,Attacker,2005-10-13,Morocco
+448243,A. Houary,797,Attacker,2005-08-05,Morocco
+448244,Didac Castellá,797,Attacker,2005-01-21,Spain
+462697,Mario,797,Midfielder,2005-12-22,Spain
+213,K. Baldé,540,Attacker,1995-03-08,Senegal
+2737,M. Braithwaite,540,Attacker,1991-06-05,Denmark
+46775,Salvi Sánchez,540,Midfielder,1991-03-30,Spain
+46799,Edu Expósito,540,Midfielder,1996-08-01,Spain
+47170,José Carlos Lazo,540,Midfielder,1996-02-16,Spain
+47349,Javi Puado,540,Attacker,1998-05-25,Spain
+47398,Pere Milla,540,Midfielder,1992-09-23,Spain
+67940,José Gragera,540,Midfielder,2000-05-14,Spain
+127426,Pol Lozano,540,Midfielder,1999-10-06,Spain
+128581,Nico Melamed,540,Midfielder,2001-04-11,Spain
+182674,Jofre Carreras,540,Attacker,2001-06-17,Spain
+182742,Alejandro Cea,540,Midfielder,2001-01-07,Spain
+286605,Roger Martínez,540,Midfielder,2004-04-05,Spain
+286645,Kenneth Soler,540,Attacker,2001-02-16,Spain
+297742,Antoniu Roca,540,Attacker,2002-09-05,Spain
+385445,Gastón Valles,540,Attacker,2001-05-10,Uruguay
+388495,Javi Hernández,540,Midfielder,2004-01-30,Spain
+392174,Sergio Rivares,540,Attacker,2005-01-18,Spain
+419912,O. Sadik,540,Attacker,2004-03-22,Morocco
+438284,Rafel Bauzà,540,Midfielder,,Spain
+52,Sergio Camello,728,Attacker,2001-02-10,Spain
+119,R. Falcao,728,Attacker,1986-02-10,Colombia
+1703,A. Rațiu,728,Defender,1998-06-20,Romania
+41552,P. Ciss,728,Midfielder,1994-03-16,Senegal
+41973,Miguel Crespo,728,Midfielder,1996-09-11,Portugal
+47109,Óscar Valentín,728,Midfielder,1994-08-20,Spain
+47285,Unai López,728,Midfielder,1995-10-30,Spain
+47527,S. Dimitrievski,728,Goalkeeper,1993-12-25,North Macedonia
+47529,Miguel Ángel Morro,728,Goalkeeper,2000-09-11,Spain
+47536,Martín Pascual,728,Defender,1999-08-04,Spain
+47543,Álvaro García,728,Midfielder,1992-10-27,Spain
+47549,José Pozo,728,Midfielder,1996-03-15,Spain
+47551,Raúl de Tomás,728,Attacker,1994-10-17,Spain
+47553,Bebé,728,Attacker,1990-07-12,Cape Verde
+47557,Ó. Trejo,728,Midfielder,1988-04-26,Argentina
+107153,Kike Pérez,728,Midfielder,1997-02-14,Spain
+122657,Randy Nteka,728,Midfielder,1997-12-06,Angola
+128582,Jorge de Frutos,728,Attacker,1997-02-20,Spain
+131546,Isi Palazón,728,Midfielder,1994-12-27,Spain
+333378,Diego Méndez,728,Midfielder,2003-08-29,Spain
+414,Omar Mascarell,798,Midfielder,1993-02-02,Equatorial Guinea
+1701,Manu Morlanes,798,Midfielder,1999-01-12,Spain
+1920,N. Radonjić,798,Attacker,1996-02-15,Serbia
+2001,C. Larin,798,Attacker,1995-04-17,Canada
+37639,S. Van der Heyden,798,Defender,1998-05-30,Belgium
+46657,Nacho Vidal,798,Defender,1995-01-24,Spain
+46733,Raíllo,798,Defender,1991-10-08,Spain
+46738,M. Valjent,798,Defender,1995-12-11,Slovakia
+46739,I. Baba,798,Midfielder,1996-01-22,Ghana
+46742,Dani Rodríguez,798,Midfielder,1988-06-06,Spain
+46751,Abdón Prats,798,Attacker,1992-12-07,Spain
+47336,Darder,798,Midfielder,1993-12-22,Spain
+50048,V. Muriqi,798,Attacker,1994-04-24,Kosovo
+107194,Antonio Sánchez,798,Midfielder,1997-04-22,Spain
+190485,Samú Costa,798,Midfielder,2000-11-27,Portugal
+293604,Javi Llabrés,798,Attacker,2002-09-11,Spain
+333439,Rubén Quintanilla,798,Midfielder,2002-04-03,Spain
+335426,Pau Mascaró,798,Attacker,2004-10-20,Spain
+350073,Marcos Fernández,798,Defender,2003-07-17,Spain
+371944,Carlos Sogorb,798,Defender,2005-08-23,Spain
+619,Eric García,547,Defender,2001-01-09,Spain
+1700,Iván Martín,547,Midfielder,1999-02-14,Spain
+2182,V. Tsyhankov,547,Attacker,1997-11-15,Ukraine
+2449,Y. Herrera,547,Midfielder,1998-01-07,Venezuela
+2617,C. Stuani,547,Attacker,1986-10-12,Uruguay
+15811,A. Dovbyk,547,Attacker,1997-06-21,Ukraine
+47492,Toni Villa,547,Midfielder,1995-01-07,Spain
+47515,Borja García,547,Midfielder,1990-11-02,Spain
+47516,Aleix García,547,Midfielder,1997-06-28,Spain
+47520,Portu,547,Attacker,1992-05-21,Spain
+197448,Yan Couto,547,Defender,2002-06-03,Brazil
+266657,Savinho,547,Attacker,2004-04-10,Brazil
+285909,Pablo Torre,547,Midfielder,2003-04-03,Spain
+306727,J. Solís,547,Midfielder,2004-10-03,Colombia
+327628,Ricard Artero,547,Midfielder,2003-02-05,Spain
+349046,Carles Garrido,547,Attacker,2004-10-04,Spain
+388057,Alex Almansa,547,Attacker,2003-11-08,Spain
+389600,Jastin García,547,Attacker,2004-01-15,Spain
+389602,Iker Almena,547,Attacker,2004-05-04,Spain
+402281,Silvi,547,Midfielder,2005-01-29,Spain
+1470,Luís Maximiano,723,Goalkeeper,1999-01-05,Portugal
+6065,L. Robertone,723,Midfielder,1997-03-18,Argentina
+12667,Jonathan Viera,723,Midfielder,1989-10-21,Spain
+13062,Léo Baptistão,723,Attacker,1992-08-26,Brazil
+19306,A. Appiah,723,Attacker,2001-01-05,England
+39245,I. Koné,723,Attacker,1999-06-16,Mali
+46739,I. Baba,723,Midfielder,1996-01-22,Ghana
+47237,L. Suárez,723,Attacker,1997-12-02,Colombia
+47525,A. Lozano,723,Attacker,1993-04-25,Honduras
+47554,Adri Embarba,723,Attacker,1992-05-07,Spain
+47576,Gonzalo Melero,723,Midfielder,1994-01-02,Spain
+138776,L. Ramazani,723,Attacker,2001-02-27,Belgium
+138809,Arnau Puigmal,723,Midfielder,2001-01-10,Spain
+162603,Carlos Rojas,723,Attacker,2002-04-18,Spain
+263812,L. Romero,723,Midfielder,2004-11-18,Argentina
+282131,M. Šviderský,723,Midfielder,2002-10-04,Slovakia
+312650,Marezi,723,Attacker,2003-08-04,Serbia
+344745,R. Fettal,723,Attacker,2005-01-16,Morocco
+352905,Marciano Sanca,723,Attacker,2004-03-03,Guinea-Bissau
+418944,Marcos Peña,723,Midfielder,2005-01-22,Spain
+124,J. Cillessen,534,Goalkeeper,1989-04-22,Netherlands
+2060,M. El Haddadi,534,Attacker,1995-09-01,Morocco
+2671,Jaime Mata,534,Attacker,1988-10-24,Spain
+21070,O. Mfulu,534,Midfielder,1994-03-20,Congo DR
+21709,E. Loiodice,534,Midfielder,2000-11-27,France
+21714,S. Kaba,534,Attacker,1995-07-28,Guinea
+46860,Javi Muñoz,534,Midfielder,1995-02-28,Spain
+47004,Fabio González,534,Midfielder,1997-02-12,Spain
+47111,Benito Ramírez,534,Midfielder,1995-07-11,Spain
+47180,Cristian Herrera,534,Attacker,1991-03-13,Spain
+47324,Sandro Ramírez,534,Attacker,1995-07-09,Spain
+47393,Marc Cardona,534,Attacker,1995-07-08,Spain
+47464,Campaña,534,Midfielder,1993-05-31,Spain
+51051,J. Araujo,534,Defender,2001-08-13,Mexico
+70315,Kirian Rodríguez,534,Midfielder,1996-03-05,Spain
+182519,Alberto Moleiro,534,Midfielder,2003-09-30,Spain
+288699,M. Perrone,534,Midfielder,2003-01-07,Argentina
+297869,Iñaki González,534,Midfielder,2004-07-27,Spain
+308423,Yadam,534,Midfielder,2002-03-14,Spain
+338750,Pau Ferrer,534,Attacker,2003-10-17,Spain
+5974,J. Chicco,537,Midfielder,1998-01-13,Argentina
+14331,Borja López,537,Defender,1994-02-02,Spain
+41976,Y. Neyou,537,Midfielder,1997-01-03,Cameroon
+46664,Luis Perea,537,Midfielder,1997-08-25,Spain
+46934,Dani Jiménez,537,Goalkeeper,1990-03-05,Spain
+47080,Jorge Sáenz,537,Defender,1996-11-17,Spain
+47361,D. Brašanac,537,Midfielder,1992-02-12,Serbia
+47407,A. Nyom,537,Defender,1988-05-10,Cameroon
+47568,Jorge Miramón,537,Defender,1989-06-02,Spain
+78457,D. Abzi,537,Defender,1998-11-23,Canada
+122956,Diego Conde,537,Goalkeeper,1998-10-28,Spain
+123047,Sergio González,537,Defender,1992-04-20,Spain
+129657,Enric Franquesa,537,Defender,1997-02-26,Spain
+131492,Aritz Arambarri,537,Defender,1998-01-31,Spain
+185202,Juan Cruz,537,Midfielder,2000-04-25,Spain
+301732,Víctor Rodríguez,537,Defender,2003-03-05,Spain
+302051,S. Cissé,537,Midfielder,2001-02-10,Guinea
+313851,Javi Garrido,537,Goalkeeper,2003-09-07,Spain
+452757,Koke,537,Midfielder,2005-03-05,Spain
+465280,Marco Leiton,537,Defender,2006-04-12,Spain
+18,J. Sancho,33,Attacker,2000-03-25,England
+74,S. Amrabat,33,Midfielder,1996-08-21,Morocco
+547,D. van de Beek,33,Midfielder,1997-04-18,Netherlands
+742,R. Varane,33,Defender,1993-04-25,France
+897,M. Greenwood,33,Attacker,2001-10-01,England
+903,S. McTominay,33,Midfielder,1996-12-08,Scotland
+908,A. Martial,33,Attacker,1995-12-05,France
+909,M. Rashford,33,Attacker,1997-10-31,England
+1485,Bruno Fernandes,33,Midfielder,1994-09-08,Portugal
+9971,Antony,33,Attacker,2000-02-24,Brazil
+19220,M. Mount,33,Midfielder,1999-01-10,England
+50132,A. Bayındır,33,Goalkeeper,1998-04-14,Türkiye
+70078,F. Pellistri,33,Midfielder,2001-12-20,Uruguay
+157997,A. Diallo,33,Attacker,2002-07-11,Côte d'Ivoire
+163054,S. Shoretire,33,Attacker,2004-02-02,England
+180560,H. Mejbri,33,Midfielder,2003-01-21,Tunisia
+282133,J. Hugill,33,Attacker,2003-10-19,England
+284242,O. Forson,33,Midfielder,2004-07-20,England
+284324,A. Garnacho,33,Attacker,2004-07-01,Argentina
+288006,R. Højlund,33,Attacker,2003-02-04,Denmark
+169,K. Trippier,34,Defender,1990-09-19,England
+723,Joelinton,34,Attacker,1996-08-14,Brazil
+1463,J. Willock,34,Midfielder,1999-08-20,England
+1972,L. Karius,34,Goalkeeper,1993-06-22,Germany
+2864,A. Isak,34,Attacker,1999-09-21,Sweden
+2939,C. Wilson,34,Attacker,1992-02-27,England
+18892,P. Dummett,34,Defender,1991-09-26,Wales
+18896,Javier Manquillo,34,Defender,1994-05-05,Spain
+18903,M. Ritchie,34,Midfielder,1989-09-10,Scotland
+31146,S. Tonali,34,Midfielder,2000-05-08,Italy
+68127,K. Watts,34,Defender,1999-11-03,England
+138787,A. Gordon,34,Attacker,2001-02-24,England
+138906,J. White,34,Midfielder,2002-10-01,England
+284278,M. Ndiweni,34,Attacker,2003-12-02,England
+284291,J. Turner-Cooke,34,Midfielder,2003-12-31,England
+284492,L. Hall,34,Defender,2004-09-08,England
+293164,A. Diallo,34,Attacker,2003-02-15,England
+328104,B. Parkinson,34,Attacker,2005-03-10,England
+349987,G. Kuol,34,Attacker,2004-09-15,Australia
+383685,Y. Minteh,34,Attacker,2004-07-22,Gambia
+104,Carlos Vinícius,36,Attacker,1995-03-25,Brazil
+105,F. Ballo-Touré,36,Defender,1997-01-03,Senegal
+899,Andreas Pereira,36,Midfielder,1996-01-01,Brazil
+1455,A. Iwobi,36,Attacker,1996-05-03,Nigeria
+2294,Willian,36,Attacker,1988-08-09,Brazil
+2823,S. Lukić,36,Midfielder,1996-08-13,Serbia
+2887,R. Jiménez,36,Attacker,1991-05-05,Mexico
+18753,Adama Traoré,36,Attacker,1996-01-25,Spain
+19004,B. De Cordova-Reid,36,Attacker,1993-02-02,Jamaica
+19145,T. Adarabioyo,36,Defender,1997-09-24,England
+19221,H. Wilson,36,Midfielder,1997-03-22,Wales
+19480,H. Reed,36,Midfielder,1995-01-27,England
+19657,M. Rodák,36,Goalkeeper,1996-12-13,Slovakia
+41104,João Palhinha,36,Midfielder,1995-07-09,Portugal
+126690,K. Bowie,36,Attacker,2002-09-21,Scotland
+138822,A. Broja,36,Attacker,2001-09-10,Albania
+191971,J. Stansfield,36,Attacker,2002-11-24,England
+195106,Rodrigo Muniz,36,Attacker,2001-05-04,Brazil
+284475,L. Harris,36,Midfielder,2005-03-04,Wales
+335116,K. Šekularac,36,Midfielder,2003-12-07,Switzerland
+925,Gonçalo Guedes,39,Attacker,1996-11-29,Portugal
+1165,Matheus Cunha,39,Attacker,1999-05-27,Brazil
+1864,Pedro Neto,39,Attacker,2000-03-09,Portugal
+2056,Pablo Sarabia,39,Midfielder,1992-05-11,Spain
+7722,S. Kalajdžić,39,Attacker,1997-07-07,Austria
+24888,Hwang Hee-Chan,39,Attacker,1996-01-26,Korea Republic
+129791,Fábio Silva,39,Attacker,2002-07-19,Portugal
+157912,B. Traoré,39,Midfielder,2001-08-20,Mali
+195717,Y. Mosquera,39,Defender,2001-05-02,Colombia
+195962,Chiquinho,39,Attacker,2000-02-05,Portugal
+282770,Rodrigo Gomes,39,Attacker,2003-07-07,Portugal
+284236,T. Ojinnaka,39,Midfielder,2005-03-30,England
+284259,T. Barnett,39,Attacker,2005-07-19,England
+303019,N. Fraser,39,Attacker,2005-02-22,Republic of Ireland
+328118,M. Whittingham,39,Midfielder,2004-10-21,England
+338856,N. Lemina,39,Attacker,2005-06-17,Gabon
+380653,L. Chiwome,39,Attacker,2006-01-10,England
+385726,E. González,39,Attacker,2005-01-20,Paraguay
+408893,W. Okoduwa,39,Attacker,2008-05-12,England
+436879,E. Ballard-Matthews,39,Attacker,2007-11-30,England
+247,C. Gakpo,40,Attacker,1999-05-07,Netherlands
+284,J. Gomez,40,Defender,1997-05-23,England
+286,J. Matip,40,Defender,1991-08-08,Cameroon
+293,C. Jones,40,Midfielder,2001-01-30,England
+306,Mohamed Salah,40,Attacker,1992-06-15,Egypt
+507,Thiago Alcântara,40,Midfielder,1991-04-11,Spain
+1096,D. Szoboszlai,40,Midfielder,2000-10-25,Hungary
+2489,L. Díaz,40,Attacker,1997-01-13,Colombia
+2678,Diogo Jota,40,Attacker,1996-12-04,Portugal
+6716,A. Mac Allister,40,Midfielder,1998-12-24,Argentina
+51617,D. Núñez,40,Attacker,1999-06-24,Uruguay
+152976,T. Hill,40,Midfielder,2002-10-13,Wales
+284287,M. Musiałowski,40,Midfielder,2003-10-16,Poland
+284367,L. Stephenson,40,Midfielder,2003-09-17,England
+286764,K. Gordon,40,Attacker,2004-10-05,England
+287109,J. McConnell,40,Midfielder,2004-09-13,England
+314661,J. Danns,40,Attacker,2006-01-16,England
+328107,L. Koumas,40,Attacker,2005-09-19,Wales
+343576,B. Doak,40,Attacker,2005-11-11,Scotland
+397997,T. Nyoni,40,Midfielder,2007-06-30,England
+295,A. Lallana,41,Midfielder,1988-05-10,England
+15812,P. Onuachu,41,Attacker,1994-05-28,Nigeria
+18873,R. Fraser,41,Midfielder,1994-02-24,Scotland
+18945,S. Armstrong,41,Midfielder,1992-03-30,Scotland
+19482,J. Rothwell,41,Midfielder,1995-01-11,England
+19484,A. Armstrong,41,Attacker,1997-02-10,England
+19524,C. Adams,41,Attacker,1996-07-13,Scotland
+19733,F. Downes,41,Midfielder,1999-01-20,England
+19825,J. Aribo,41,Midfielder,1996-07-21,Nigeria
+45078,R. Stewart,41,Attacker,1996-07-11,Scotland
+130421,W. Smallbone,41,Midfielder,2000-02-21,Republic of Ireland
+144729,T. Harwood-Bellis,41,Defender,2002-01-30,England
+190686,S. Mara,41,Attacker,2002-07-30,France
+199837,K. Sulemana,41,Midfielder,2002-02-15,Ghana
+278085,S. Edozie,41,Midfielder,2003-01-28,England
+284356,S. Charles,41,Midfielder,2003-11-05,Northern Ireland
+303460,D. Ballard,41,Attacker,2005-04-01,England
+304317,T. Dibling,41,Midfielder,2006-02-17,England
+304318,C. Bragg,41,Midfielder,2005-04-10,England
+334035,S. Amo-Ameyaw,41,Attacker,2006-07-18,England
+190,Cédric Soares,42,Defender,1991-08-31,Portugal
+643,Gabriel Jesus,42,Attacker,1997-04-03,Brazil
+727,R. Nelson,42,Attacker,1999-12-10,England
+1117,K. Tierney,42,Defender,1997-06-05,Scotland
+1452,Mohamed Elneny,42,Midfielder,1992-07-11,Egypt
+1460,B. Saka,42,Attacker,2001-09-05,England
+1468,E. Nketiah,42,Attacker,1999-05-30,England
+1946,L. Trossard,42,Attacker,1994-12-04,Belgium
+19465,David Raya,42,Goalkeeper,1995-09-15,Spain
+22224,Gabriel Magalhães,42,Defender,1997-12-19,Brazil
+37127,M. Ødegaard,42,Midfielder,1998-12-17,Norway
+127769,Gabriel Martinelli,42,Attacker,2001-06-18,Brazil
+283026,M. Biereth,42,Attacker,2003-02-08,Denmark
+284502,J. Sweet,42,Defender,2003-11-03,Wales
+284540,Mauro Bandeira,42,Midfielder,2003-11-18,Portugal
+284571,C. Sagoe Jr,42,Attacker,2004-07-24,England
+309501,A. Cozier-Duberry,42,Midfielder,2005-05-29,England
+309505,R. Walters,42,Defender,2004-12-16,England
+313236,E. Nwaneri,42,Midfielder,2007-03-21,England
+313245,M. Lewis-Skelly,42,Midfielder,2006-09-26,England
+110,H. Massengo,44,Midfielder,2001-07-07,France
+1934,S. Berge,44,Midfielder,1998-02-14,Norway
+2109,S. Bastien,44,Midfielder,1996-09-26,Congo DR
+8589,Manuel Benson,44,Attacker,1997-03-28,Angola
+18948,N. Redmond,44,Midfielder,1994-03-06,England
+18957,M. Obafemi,44,Attacker,2000-07-06,Republic of Ireland
+19169,J. Rodríguez,44,Attacker,1989-07-29,England
+19268,J. Brownhill,44,Midfielder,1995-12-19,England
+19827,J. Cullen,44,Midfielder,1996-04-07,Republic of Ireland
+25416,W. Weghorst,44,Attacker,1992-08-07,Netherlands
+69403,S. Twine,44,Midfielder,1999-07-14,England
+69680,D. Costelloe,44,Attacker,2002-12-11,Republic of Ireland
+98936,L. Foster,44,Attacker,2000-09-03,South Africa
+105789,D. Churlinov,44,Attacker,2000-07-11,North Macedonia
+123469,Z. Amdouni,44,Attacker,2000-12-04,Switzerland
+129169,A. Zaroury,44,Attacker,2000-11-07,Morocco
+278079,A. Ramsey,44,Midfielder,2003-01-21,England
+336564,W. Odobert,44,Attacker,2004-11-28,France
+359603,L. Koleosho,44,Attacker,2004-09-15,Italy
+361388,E. Agyei,44,Attacker,2005-01-13,Belgium
+83,A. Danjuma,45,Attacker,1997-01-31,Netherlands
+172,D. Alli,45,Midfielder,1996-04-11,England
+895,J. Garner,45,Midfielder,2001-03-13,England
+2990,I. Gueye,45,Midfielder,1989-09-26,Senegal
+18765,André Gomes,45,Midfielder,1993-07-30,Portugal
+18766,D. Calvert-Lewin,45,Attacker,1997-03-16,England
+18929,D. McNeil,45,Attacker,1999-11-22,England
+19073,B. Godfrey,45,Defender,1998-01-15,England
+19128,J. Harrison,45,Midfielder,1996-11-20,England
+19364,N. Maupay,45,Attacker,1996-08-14,France
+20224,A. Lonergan,45,Goalkeeper,1983-10-19,England
+125743,Beto,45,Attacker,1998-01-31,Portugal
+153425,L. Dobbin,45,Attacker,2003-01-03,England
+162714,A. Onana,45,Midfielder,2001-08-16,Belgium
+167657,T. Onyango,45,Midfielder,2003-03-04,England
+284266,L. Warrington,45,Midfielder,2002-10-10,England
+284500,T. Iroegbunam,45,Midfielder,2003-06-30,England
+297641,J. Metcalfe,45,Midfielder,2004-09-06,England
+298099,M. Hunt,45,Midfielder,2001-11-14,England
+330412,Youssef Chermiti,45,Attacker,2004-05-24,Portugal
+182,H. Winks,46,Midfielder,1996-02-02,England
+454,Y. Akgün,46,Attacker,2000-07-07,Türkiye
+879,S. Mavididi,46,Attacker,1998-05-31,England
+1098,P. Daka,46,Attacker,1998-10-09,Zambia
+2778,K. Ịheanachọ,46,Attacker,1996-10-03,Nigeria
+2925,D. Praet,46,Midfielder,1994-05-14,Belgium
+18777,M. Albrighton,46,Midfielder,1989-11-18,England
+18779,H. Choudhury,46,Midfielder,1997-10-01,England
+18786,W. Ndidi,46,Midfielder,1996-12-16,Nigeria
+18788,J. Vardy,46,Attacker,1987-01-11,England
+22233,B. Soumaré,46,Midfielder,1999-02-27,France
+148099,K. Dewsbury-Hall,46,Midfielder,1998-09-06,England
+215874,T. Cannon,46,Attacker,2002-12-28,Republic of Ireland
+278116,T. Maswanhise,46,Attacker,2002-11-20,Zimbabwe
+283289,A. Raikhy,46,Midfielder,2002-10-20,England
+283290,K. McAteer,46,Midfielder,2001-11-22,England
+284372,C. Doyle,46,Defender,2003-10-03,England
+284403,S. Thomas,46,Attacker,2004-06-25,England
+284487,Wanya Marçal,46,Midfielder,2002-10-19,Portugal
+303467,A. Fatawu,46,Attacker,2004-03-08,Ghana
+269,C. Nkunku,49,Attacker,1997-11-14,France
+645,R. Sterling,49,Attacker,1994-12-08,England
+907,R. Lukaku,49,Attacker,1993-05-13,Belgium
+2273,Kepa,49,Goalkeeper,1994-10-03,Spain
+63577,M. Mudryk,49,Midfielder,2001-01-05,Ukraine
+136723,N. Madueke,49,Attacker,2002-03-10,England
+138822,A. Broja,49,Attacker,2001-09-10,Albania
+152982,C. Palmer,49,Attacker,2002-05-06,England
+270508,L. Ugochukwu,49,Midfielder,2004-03-26,France
+283058,N. Jackson,49,Attacker,2001-06-20,Senegal
+284404,J. Tauriainen,49,Midfielder,2004-03-08,Finland
+286774,R. Stutter,49,Attacker,2005-01-06,England
+288055,Ângelo,49,Attacker,2004-12-21,Brazil
+289618,A. Matos,49,Attacker,2004-10-03,England
+291476,D. Fofana,49,Attacker,2002-12-22,Côte d'Ivoire
+305834,Andrey Santos,49,Midfielder,2004-05-03,Brazil
+334037,T. George,49,Attacker,2006-02-04,England
+335056,Diego Moreira,49,Attacker,2004-08-06,Portugal
+411808,D. Richards,49,Attacker,2005-11-10,Jamaica
+415001,Deivid Washington,49,Attacker,2005-06-05,Brazil
+44,Rodri,50,Midfielder,1996-06-22,Spain
+567,Rúben Dias,50,Defender,1997-05-14,Portugal
+631,P. Foden,50,Attacker,2000-05-28,England
+636,Bernardo Silva,50,Midfielder,1994-08-10,Portugal
+855,João Cancelo,50,Defender,1994-05-27,Portugal
+1100,E. Haaland,50,Attacker,2000-07-21,Norway
+1422,J. Doku,50,Attacker,2002-05-27,Belgium
+2291,M. Kovačić,50,Midfielder,1994-05-06,Croatia
+6009,J. Álvarez,50,Attacker,2000-01-31,Argentina
+19130,K. Phillips,50,Midfielder,1995-12-02,England
+41621,Matheus Nunes,50,Midfielder,1998-08-27,Portugal
+129033,J. Gvardiol,50,Defender,2002-01-23,Croatia
+158697,J. McAtee,50,Midfielder,2002-10-18,England
+161948,L. Delap,50,Attacker,2003-02-08,England
+197448,Yan Couto,50,Defender,2002-06-03,Brazil
+284231,M. Hamilton,50,Midfielder,2003-11-13,England
+288109,A. Robertson,50,Midfielder,2003-04-17,Australia
+288699,M. Perrone,50,Midfielder,2003-01-07,Argentina
+328097,Mahamadou Susoho,50,Midfielder,2005-01-20,Spain
+382355,J. Wright,50,Midfielder,2005-09-21,England
+1469,D. Welbeck,51,Attacker,1990-11-26,England
+10329,João Pedro,51,Attacker,2001-09-26,Brazil
+18963,L. Dunk,51,Defender,1991-11-21,England
+19565,J. Weir,51,Midfielder,2002-01-31,England
+26475,D. Undav,51,Attacker,1996-07-19,Germany
+40911,J. Moder,51,Midfielder,1999-04-07,Poland
+106835,K. Mitoma,51,Midfielder,1997-05-20,Japan
+129643,E. Ferguson,51,Attacker,2004-10-19,Republic of Ireland
+135775,Ansu Fati,51,Attacker,2002-10-31,Spain
+137220,A. Moran,51,Midfielder,2003-10-15,Republic of Ireland
+202086,J. Sarmiento,51,Midfielder,2002-06-16,Ecuador
+216809,C. Peupion,51,Midfielder,2002-09-23,Australia
+277191,A. Sima,51,Attacker,2001-06-17,Senegal
+293643,I. Osman,51,Attacker,2004-11-29,Ghana
+301771,S. Adingra,51,Attacker,2002-01-01,Côte d'Ivoire
+305735,J. Duffus,51,Attacker,2004-12-15,England
+336599,B. Baker-Boaitey,51,Attacker,2004-01-09,England
+340135,M. O’Mahony,51,Attacker,2005-01-14,Republic of Ireland
+342191,A. Mazilu,51,Attacker,2005-09-13,Romania
+356041,C. Baleba,51,Midfielder,2004-01-03,Cameroon
+1135,O. Édouard,52,Attacker,1998-01-16,France
+3428,J. Ayew,52,Attacker,1991-09-11,Ghana
+18843,J. Schlupp,52,Midfielder,1992-12-23,Ghana
+18844,J. Tomkins,52,Defender,1989-03-29,England
+18853,J. Riedewald,52,Midfielder,1996-09-09,Netherlands
+19586,E. Eze,52,Attacker,1998-06-29,England
+25927,J. Mateta,52,Attacker,1997-06-28,France
+127605,N. Ferguson,52,Defender,2000-10-06,England
+270357,K. Phillips,52,Midfielder,2002-03-30,Republic of Ireland
+284416,R. Mathurin,52,Attacker,2004-01-23,England
+284449,J. Rak-Sakyi,52,Midfielder,2002-10-05,England
+284551,J. Wells-Morrison,52,Midfielder,2004-02-18,England
+288102,A. Wharton,52,Midfielder,2004-02-06,England
+293162,J. Raymond,52,Midfielder,2003-10-15,Wales
+301295,K. Rodney,52,Midfielder,2004-10-07,England
+304319,A. Ola-Adebomi,52,Attacker,2003-09-03,England
+304320,D. Ozoh,52,Midfielder,2005-05-06,England
+311157,Matheus França,52,Attacker,2004-04-01,Brazil
+328808,M. Ebiowei,52,Attacker,2003-09-04,England
+340136,F. Umeh,52,Attacker,2005-01-26,Republic of Ireland
+1279,J. Maja,60,Attacker,1998-12-27,Nigeria
+7338,O. Diakité,60,Midfielder,2000-07-25,Mali
+18821,G. Diangana,60,Midfielder,1998-04-19,Congo DR
+18974,J. Molumby,60,Midfielder,1999-08-06,Republic of Ireland
+19055,K. Ahearne-Grant,60,Attacker,1997-09-18,England
+19619,J. Swift,60,Midfielder,1995-06-23,England
+19646,J. Wallace,60,Midfielder,1994-03-26,England
+19799,A. Mowatt,60,Midfielder,1995-02-13,England
+47213,Pipa,60,Defender,1998-01-26,Spain
+47443,O. Yokuşlu,60,Midfielder,1994-03-09,Türkiye
+82090,B. Thomas-Asante,60,Attacker,1998-12-29,Ghana
+201709,D. Dike,60,Attacker,2000-06-03,USA
+283274,J. Malcolm,60,Attacker,2002-12-10,England
+283278,T. Fellows,60,Midfielder,2003-07-25,England
+292116,R. Cleary,60,Attacker,2004-04-13,England
+296448,F. Heard,60,Midfielder,2004-10-01,England
+297636,L. Love,60,Attacker,2004-09-28,England
+327734,A. Higgins,60,Attacker,2005-07-24,England
+346887,K. Mfuamba,60,Midfielder,2006-08-25,England
+355226,H. Whitwell,60,Midfielder,2005-11-16,England
+17407,F. Seriki,62,Defender,2002-04-28,England
+250,J. Piroe,63,Attacker,1999-08-02,Netherlands
+1564,J. Firpo,63,Defender,1996-08-22,Dominican Republic
+1754,G. Kamara,63,Midfielder,1995-10-28,Finland
+19128,J. Harrison,63,Midfielder,1996-11-20,England
+19131,J. Shackleton,63,Midfielder,1999-10-08,England
+19134,P. Bamford,63,Attacker,1993-09-05,England
+19329,D. James,63,Midfielder,1997-11-10,Wales
+19569,J. Gelhardt,63,Attacker,2002-05-04,England
+37724,C. Summerville,63,Attacker,2001-10-30,Netherlands
+90590,G. Rutter,63,Attacker,2002-04-20,France
+129142,I. Gruev,63,Midfielder,2000-05-06,Bulgaria
+131278,C. Allen,63,Midfielder,2003-11-22,Northern Ireland
+153400,S. Greenwood,63,Midfielder,2002-01-26,England
+162128,W. Gnonto,63,Attacker,2003-11-05,Italy
+196855,J. Anthony,63,Attacker,1999-12-01,England
+282124,D. Gyabi,63,Midfielder,2004-02-18,England
+284408,S. Perkins,63,Attacker,2004-02-10,England
+313059,Mateo Joseph,63,Attacker,2003-10-19,Spain
+328089,A. Gray,63,Midfielder,2006-03-12,England
+345435,C. Crew,63,Midfielder,2006-06-15,Wales
+80,E. Dennis,38,Attacker,1997-11-15,Nigeria
+1134,V. Bayo,38,Attacker,1997-01-10,Côte d'Ivoire
+1276,S. Kalu,38,Attacker,1997-08-26,Nigeria
+1424,E. Kayembe,38,Midfielder,1998-06-03,Congo DR
+2860,K. Sema,38,Midfielder,1993-09-30,Sweden
+16126,M. Rajović,38,Attacker,1999-07-17,Denmark
+19038,B. Hamer,38,Goalkeeper,1987-11-20,England
+19076,J. Lewis,38,Defender,1998-01-25,Northern Ireland
+19160,J. Livermore,38,Midfielder,1989-11-14,England
+21100,I. Louza,38,Midfielder,1999-05-01,Morocco
+152699,K. Baah,38,Attacker,2003-01-27,Germany
+305821,Matheus Martins,38,Attacker,2003-07-16,Brazil
+308161,J. Cabezas,38,Attacker,2003-09-06,Colombia
+328046,I. Koné,38,Midfielder,2002-06-16,Canada
+367473,J. Grieves,38,Attacker,2004-12-05,England
+403063,M. Adu-Poku,38,Attacker,2005-09-22,England
+433873,J. Collins,38,Attacker,2004-12-31,England
+456585,A. Nabizada,38,Attacker,2007-06-21,England
+459360,Z. Massiah-Edwards,38,Attacker,2007-01-16,England
+459633,L. Ramirez-Espain,38,Midfielder,2006-10-02,England
+1835,T. Strakosha,55,Goalkeeper,1995-03-19,Albania
+2699,S. Ghoddos,55,Attacker,1993-09-06,Iran
+2731,M. Jørgensen,55,Defender,1990-04-23,Denmark
+15799,F. Onyeka,55,Midfielder,1998-01-01,Nigeria
+19364,N. Maupay,55,Attacker,1996-08-14,France
+19974,I. Toney,55,Attacker,1996-03-16,England
+20110,S. Baptiste,55,Midfielder,1998-04-08,Grenada
+20649,Y. Wissa,55,Midfielder,1996-09-03,Congo DR
+30407,C. Nørgaard,55,Midfielder,1994-03-10,Denmark
+106725,K. Lewis-Potter,55,Attacker,2001-02-22,England
+153422,E. Brierley,55,Midfielder,2003-11-23,England
+178077,K. Schade,55,Midfielder,2001-11-27,Germany
+180308,M. Peart-Harris,55,Midfielder,2002-09-18,England
+196156,Thiago,55,Attacker,2001-06-26,Brazil
+263538,Y. Yarmoliuk,55,Midfielder,2004-03-01,Ukraine
+281975,V. Adedokun,55,Defender,2003-02-14,Republic of Ireland
+349288,V. Angelini,55,Goalkeeper,2003-09-12,Scotland
+382925,R. Trevitt,55,Midfielder,2003-03-12,England
+408221,B. Fredrick,55,Defender,2005-05-28,Nigeria
+430827,B. Arthur,55,Defender,2005-10-09,England
+952,C. Fassnacht,71,Midfielder,1993-11-11,Switzerland
+15832,J. Sørensen,71,Midfielder,1998-03-03,Denmark
+18927,A. Barnes,71,Attacker,1989-10-30,England
+19074,O. Hernández,71,Midfielder,1993-02-01,Cuba
+19077,K. McLean,71,Midfielder,1992-01-08,Scotland
+25332,J. Sargent,71,Attacker,2000-02-20,USA
+38713,S. van Hooijdonk,71,Attacker,2000-02-06,Netherlands
+57739,J. Córdoba,71,Defender,2001-06-03,Panama
+80552,Gabriel Sara,71,Midfielder,1999-06-26,Brazil
+133453,Borja Sainz,71,Attacker,2001-02-21,Spain
+138872,F. Clarke,71,Midfielder,2002-12-19,Scotland
+171034,L. Gibbs,71,Midfielder,2002-12-16,England
+195121,M. Núñez,71,Midfielder,2000-03-01,Chile
+278064,T. Springett,71,Attacker,2002-09-22,Republic of Ireland
+278095,J. Rowe,71,Attacker,2003-04-30,England
+278096,J. Warner,71,Defender,2002-10-28,England
+279802,Pedro Lima,71,Midfielder,2003-03-27,Brazil
+284441,A. Kamara,71,Attacker,2003-07-21,England
+289617,K. Aboh,71,Attacker,2004-11-09,England
+309502,F. Welch,71,Midfielder,2004-10-03,England
